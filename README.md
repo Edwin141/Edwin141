@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Edwin141
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning php and javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything front-end related
 - 📫 How to reach me edvinas.mencleris@gmail.com
 
 <!---
